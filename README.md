@@ -17,7 +17,7 @@
 4. Install dependencies using requirements.txt:<br>
    **pip install -r requirements.txt**
 
-5. Create .env file, and inside that put:
+5. Create .env file, and inside that put:<br>
     **OPENAI_API_KEY=<Your_API-Key>**
    
 6. Now run the file main.py:<br>
